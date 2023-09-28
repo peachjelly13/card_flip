@@ -1,2 +1,3 @@
 # card_flip
-Flip card game 
+-A card flipping game in javascript
+-The link of the game: 
